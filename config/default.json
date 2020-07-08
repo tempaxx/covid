@@ -1,0 +1,4 @@
+{
+    "mongoID": "mongodb+srv://test_user:test123@cluster0.pvqte.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "coronavirus"
+}
